@@ -1,0 +1,3 @@
+require('./spec/countEvenNumbers.spec');
+
+

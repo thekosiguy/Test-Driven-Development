@@ -1,0 +1,1 @@
+require('./spec/countOddNumbers.spec');
